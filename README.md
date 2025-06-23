@@ -1,4 +1,4 @@
-# Pirate Intelligent Agent CS 370 Project
+# CS 370 Project Two
 
 ## Project Summary
 
