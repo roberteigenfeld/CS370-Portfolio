@@ -1,14 +1,13 @@
-# Pirate Intelligent Agent — CS 370 Project
+# Pirate Intelligent Agent CS 370 Project
 
 ## Project Summary
 
-For this project, I developed an intelligent agent to solve a treasure hunt problem using reinforcement learning. I was given the base environment and game structure — including the reward system and state grid. I created the deep Q-learning model from scratch, including the neural network, training loop, action selection logic, and performance evaluation. The agent learned how to navigate the environment and reach the goal more efficiently over time through exploration and feedback.
+For this project, I created an intelligent agent that solves a treasure hunt problem using reinforcement learning. I was given the basic environment and game setup, including the state grid and reward system. I wrote the deep Q-learning model myself, including the neural network, training loop, action selection process, and performance tracking. The goal was to help the agent learn how to reach the treasure more efficiently with each training episode.
 
 ## Reflection
 
-This project helped me understand how reinforcement learning applies to real-world problem-solving — especially in building systems that improve through experience. I used concepts like Q-values, reward signals, and policy optimization to train the agent, and I saw firsthand how learning algorithms adjust behavior based on trial and error.
+This project helped me understand how reinforcement learning works in a real problem. I used concepts like Q-values, rewards, and policy updates to train the agent. I saw how an agent can improve its decisions by learning from experience and trial and error.
 
-Computer scientists design systems, solve problems, and build technologies that impact nearly every part of society. Their work matters because it drives innovation — from apps and automation to artificial intelligence and cybersecurity. In this project, I applied a computer scientist’s mindset by analyzing the problem, building modular code, testing hypotheses, and refining my model based on results.
+Computer scientists solve problems by building systems and writing code that works in the real world. Their work is important because it powers things we use every day, like apps, websites, and smart devices. In this project, I worked like a computer scientist by breaking the problem into parts, building working solutions, testing them, and improving them over time.
 
-Ethically, I’ve learned that developers carry responsibility for how their systems behave and affect others. Intelligent agents — even in simple environments like this — must be built with care to avoid bias or unintended consequences. As AI becomes more common in the real world, this responsibility only grows. This project reminded me that good design is not just about performance — it’s also about fairness, transparency, and accountability.
-
+I also learned about the responsibility developers have when creating intelligent systems. Even a small learning agent needs to be designed carefully so it works as intended. As AI becomes more common, developers must think about fairness and user impact. This project helped me understand how to design systems that are not only effective but also responsible and clear in how they work.
